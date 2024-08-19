@@ -1,0 +1,17 @@
+{"data": {
+    "user": {
+      "created": "2023-04-24T12:22:55.000+00:00",
+      "updated": "2023-05-04T07:17:47.000+00:00",
+      "id": 1,
+      "username": "xm",
+      "password": "123456",
+      "phone": "13850429386",
+      "headphoto": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%A4%B4%E5%83%8F/%E7%94%A8%E6%88%B7%E5%A4%B4%E5%83%8F/4.jpg",
+      "gender": 1,
+      "age": 22,
+      "introduction": "无",
+      "userType": "admin"
+    },
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJwYXNzd29yZCI6IjEyMzQ1NiIsImlkIjoxLCJleHAiOjE2ODUwNDMyMzUsInVzZXJuYW1lIjoieG0ifQ.u8825pLXjMhBmj6BWMP1hEieL0t6ifckJqhBPgy_v6pGhz98HExqNnQSBObaJtWuKgMROuzXmyo-9TNtpSHrUg"
+  }
+}

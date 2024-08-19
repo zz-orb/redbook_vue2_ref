@@ -1,0 +1,36 @@
+{"data": {
+    "goods": {
+      "created": "2023-04-30T06:19:37.000+00:00",
+      "updated": null,
+      "id": 12,
+      "goodsName": "创意家居日用小商品厨房用品",
+      "price": 1.61,
+      "goodsContent": "品牌: other/其他风格: 日式包装种类: 其他颜色分类: 长方形毛重: 4g适用节日: 春节是否可定制: 否",
+      "goodsTag": "平价",
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E5%B9%B3%E4%BB%B7/new%20-%20%E5%89%AF%E6%9C%AC/QQ%E6%88%AA%E5%9B%BE20230425183202.png"
+    },
+    "goodsComment": [
+      {
+        "created": "2023-04-25T11:21:44.000+00:00",
+        "updated": "2023-04-25T15:39:39.000+00:00",
+        "id": 23,
+        "userId": 2,
+        "goodsId": 12,
+        "comment": "好用好用",
+        "username": "足球张雨绮",
+        "headphoto": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%A4%B4%E5%83%8F/%E7%94%A8%E6%88%B7%E5%A4%B4%E5%83%8F/6.jpg",
+        "deleted": 0
+      },
+      {
+        "created": "2023-04-25T11:41:09.000+00:00",
+        "updated": "2023-04-25T15:39:39.000+00:00",
+        "id": 24,
+        "userId": 34,
+        "goodsId": 12,
+        "comment": "便宜并且耐用！下次还来",
+        "username": "阿棒的觅食计划",
+        "headphoto": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%A4%B4%E5%83%8F/%E7%94%A8%E6%88%B7%E5%A4%B4%E5%83%8F/50.jpg",
+        "deleted": 0
+      }
+    ]
+  }}

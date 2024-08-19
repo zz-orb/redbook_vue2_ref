@@ -1,0 +1,41 @@
+/* 全局样式表 */
+html,body,#app {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 900px;
+    min-height: 900px;
+    overflow: hidden;
+}
+/* 面包屑下拉底 */
+
+/* .el-breadcrumb {
+    margin-bottom: 15px;
+    font-size: 13px;
+} */
+
+/* 卡片视图阴影轮廓 */
+/* .el-card {
+    box-shadow: 0 1px 1px rgba(43, 43, 43, 0.3) !important;
+}
+.el-table {
+    margin-top: 15px;
+    font-size: 12px;
+}
+.vcenter{
+    display: flex;
+    align-items: center;
+}
+.el-cascader-menu {
+    height: 300px;
+}
+.el-steps {
+    margin: 15px 0;
+}
+.el-steps_title {
+    font-size: 13px;
+}
+.ql-editor {
+    min-height: 250px;
+} */

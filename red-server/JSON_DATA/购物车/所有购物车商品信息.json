@@ -1,0 +1,80 @@
+{"data": [
+    {
+      "created": "2023-04-29T14:47:35.000+00:00",
+      "updated": "2023-04-29T16:36:10.000+00:00",
+      "id": 8,
+      "userId": 1,
+      "goodsId": 1,
+      "goodsName": "创意家居生活用品",
+      "price": 18.5,
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E6%8E%A8%E8%8D%90/1/O1CN0160sQnm23r793wD3S8_%21%21267817308.jpg",
+      "count": 1,
+      "amount": 18.5,
+      "deleted": 0
+    },
+    {
+      "created": "2023-04-29T14:47:39.000+00:00",
+      "updated": "2023-04-29T14:49:34.000+00:00",
+      "id": 9,
+      "userId": 1,
+      "goodsId": 2,
+      "goodsName": "德古德训鞋",
+      "price": 200,
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E6%8E%A8%E8%8D%90/1%20-%20%E5%89%AF%E6%9C%AC/O1CN01NVGvsc2AORhBr9xI0_%21%21127138193.jpg",
+      "count": 4,
+      "amount": 800,
+      "deleted": 0
+    },
+    {
+      "created": "2023-04-29T14:48:05.000+00:00",
+      "updated": null,
+      "id": 10,
+      "userId": 1,
+      "goodsId": 5,
+      "goodsName": "冬季真皮马丁靴男切尔西靴子",
+      "price": 583,
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E6%8E%A8%E8%8D%90/1%20-%20%E5%89%AF%E6%9C%AC%20%284%29/O1CN01p46qH51OA9mG1lHA6_%21%212259221664.jpg",
+      "count": 2,
+      "amount": 1166,
+      "deleted": 0
+    },
+    {
+      "created": "2023-04-29T14:48:09.000+00:00",
+      "updated": null,
+      "id": 11,
+      "userId": 1,
+      "goodsId": 10,
+      "goodsName": "日本进口MUJIΕ家居厨房用品用具小百货",
+      "price": 75,
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E6%8E%A8%E8%8D%90/1%20-%20%E5%89%AF%E6%9C%AC%20%289%29/O1CN011bNU8X2GVfgP5OhjX_%21%212200567069021.jpg",
+      "count": 2,
+      "amount": 150,
+      "deleted": 0
+    },
+    {
+      "created": "2023-04-29T14:48:22.000+00:00",
+      "updated": null,
+      "id": 12,
+      "userId": 1,
+      "goodsId": 11,
+      "goodsName": "家居用品用具小百货",
+      "price": 9.8,
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E5%B9%B3%E4%BB%B7/new/O1CN0109ZFuV25IshaJHuTL_%21%211660857504.jpg",
+      "count": 1,
+      "amount": 9.8,
+      "deleted": 0
+    },
+    {
+      "created": "2023-04-29T14:50:12.000+00:00",
+      "updated": null,
+      "id": 13,
+      "userId": 1,
+      "goodsId": 12,
+      "goodsName": "创意家居日用小商品厨房用品",
+      "price": 1.61,
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E5%B9%B3%E4%BB%B7/new%20-%20%E5%89%AF%E6%9C%AC/QQ%E6%88%AA%E5%9B%BE20230425183202.png",
+      "count": 2,
+      "amount": 3.22,
+      "deleted": 0
+    }
+  ]}

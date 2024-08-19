@@ -1,0 +1,38 @@
+{"data": [
+    {
+      "created": "2023-04-30T06:22:48.000+00:00",
+      "updated": null,
+      "id": 10,
+      "goodsId": 1,
+      "userId": 1,
+      "goodsName": "创意家居生活用品",
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E6%8E%A8%E8%8D%90/1/O1CN0160sQnm23r793wD3S8_%21%21267817308.jpg",
+      "count": 1,
+      "amount": 18.5,
+      "deleted": 0
+    },
+    {
+      "created": "2023-04-30T06:22:48.000+00:00",
+      "updated": null,
+      "id": 11,
+      "goodsId": 2,
+      "userId": 1,
+      "goodsName": "德古德训鞋",
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E6%8E%A8%E8%8D%90/1%20-%20%E5%89%AF%E6%9C%AC/O1CN01NVGvsc2AORhBr9xI0_%21%21127138193.jpg",
+      "count": 4,
+      "amount": 800,
+      "deleted": 0
+    },
+    {
+      "created": "2023-04-30T06:22:48.000+00:00",
+      "updated": null,
+      "id": 12,
+      "goodsId": 5,
+      "userId": 1,
+      "goodsName": "冬季真皮马丁靴男切尔西靴子",
+      "picture": "https://tanhua-zxm.oss-cn-hangzhou.aliyuncs.com/%E5%B0%8F%E7%BA%A2%E4%B9%A6/%E5%95%86%E5%93%81/%E6%8E%A8%E8%8D%90/1%20-%20%E5%89%AF%E6%9C%AC%20%284%29/O1CN01p46qH51OA9mG1lHA6_%21%212259221664.jpg",
+      "count": 2,
+      "amount": 1166,
+      "deleted": 0
+    }
+  ]}
